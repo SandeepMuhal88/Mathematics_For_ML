@@ -1,6 +1,4 @@
-Here's the raw text of your README file:
 
-```
 # Set Theory: Union, Intersection, and If-Else Application
 
 ## Introduction
@@ -11,9 +9,7 @@ The union of two or more sets combines all the unique elements from the given se
 
 ### Mathematical Representation
 If **A** and **B** are two sets:
-```
 A ∪ B = { x | x ∈ A or x ∈ B }
-```
 
 ### Example
 Let:
@@ -21,9 +17,8 @@ Let:
 - B = {3, 4, 5}
 
 Then:
-```
+
 A ∪ B = {1, 2, 3, 4, 5}
-```
 
 ---
 
